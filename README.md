@@ -4,7 +4,7 @@ Deber 2 de C++ teoria
 
 En este ejercicio, tuvimos que realizar un diagrama de flujos para mostrar el funcionamiento de nuestro programa en el Deber 1 de C++ ejercicios.
 Lo que hace este programa es pedir una moneda (USD/EUR/JPY) junto a un monto base y la tasa de cambio a la moneda que se quiera convertir, para despues imprimir los resultados de este cambio.
-Nota: En mi programa original, olvide de poner las transformaciones de JPY, sin embargo en el diagrama de flujos si estan puestas estas conversiones.
+Nota: En mi programa original olvide de poner las transformaciones de JPY, sin embargo en el diagrama de flujos si estan puestas estas conversiones.
 Gracias!
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣩⣤⠄⣉⣙⠻⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
